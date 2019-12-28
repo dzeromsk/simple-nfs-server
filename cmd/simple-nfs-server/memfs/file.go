@@ -8,7 +8,7 @@ import (
 	"time"
 	"unsafe"
 
-	"nfs/xdrrpc/nfs"
+	"github.com/dzeromsk/xdrrpc/nfs"
 )
 
 type file struct {

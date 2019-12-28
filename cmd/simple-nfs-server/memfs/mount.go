@@ -1,8 +1,8 @@
 package memfs
 
 import (
-	"nfs/xdrrpc/mount"
-	"nfs/xdrrpc/nfs"
+	"github.com/dzeromsk/xdrrpc/mount"
+	"github.com/dzeromsk/xdrrpc/nfs"
 )
 
 type Mount struct {

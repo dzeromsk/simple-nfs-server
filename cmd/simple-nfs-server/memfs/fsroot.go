@@ -3,7 +3,7 @@ package memfs
 import (
 	"time"
 
-	"nfs/xdrrpc/nfs"
+	"github.com/dzeromsk/xdrrpc/nfs"
 )
 
 var starttime = nfs.NFS3Time{Seconds: uint32(time.Now().Unix())}

@@ -1,8 +1,8 @@
 package mount
 
 import (
-	"nfs/xdrrpc"
-	"nfs/xdrrpc/nfs"
+	"github.com/dzeromsk/xdrrpc"
+	"github.com/dzeromsk/xdrrpc/nfs"
 )
 
 func init() {

@@ -2,8 +2,9 @@ package nfs
 
 import (
 	"encoding/binary"
-	"nfs/xdrrpc"
 	"sync"
+
+	"github.com/dzeromsk/xdrrpc"
 )
 
 func init() {

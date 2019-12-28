@@ -7,10 +7,10 @@ import (
 	"net/rpc"
 	"runtime"
 
-	"nfs/xdrrpc"
-	"nfs/xdrrpc/nfs"
+	"github.com/dzeromsk/xdrrpc"
+	"github.com/dzeromsk/xdrrpc/nfs"
 
-	"nfs/xdrrpc/cmd/simple-nfs-server/memfs"
+	"github.com/dzeromsk/xdrrpc/cmd/simple-nfs-server/memfs"
 )
 
 var (
